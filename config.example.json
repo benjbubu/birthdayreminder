@@ -1,0 +1,13 @@
+{
+	"list_path": "list.csv",
+	"use_emailnotif": true,
+	"email": "change@me.com",
+	"smtpServer": "smtp.gmail.com",
+	"port": "587",
+	"my_email": "change@me.com",
+	"password": "azerty123",
+	"use_gotify": false,
+	"gotify_url": "https://change.me",
+	"gotify_token": "XXXXXXX"
+}
+
