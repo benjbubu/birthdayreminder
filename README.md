@@ -17,7 +17,6 @@ One CSV list to remind them all
 
 Notify you by mail (and maybe gotify)
 
-See the current list in HTML (and maybe update it directly on the web page)
 
 ----- 
 
